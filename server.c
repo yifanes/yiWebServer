@@ -25,8 +25,10 @@
 #include	<sys/stat.h>
 #include	<time.h>
 #include	<string.h>
-#include	"process.h"
+
 #include	"send.h"
+#include	"process.h"
+
 /* 
  * ===  FUNCTION  ======================================================================
  *         Name:  main
